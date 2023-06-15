@@ -1,13 +1,11 @@
-package TrainTicketHuman.Service;
+package trainTicketDemo.Service;
 
-import TrainTicketHuman.Model.Ticket;
-import TrainTicketHuman.Repository.TicketRepository;
+import trainTicketDemo.Model.Ticket;
+import trainTicketDemo.Repository.TicketRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import java.util.HashSet;
 import java.util.List;
-import java.util.Set;
 
 @Service
 public class TicketService {

@@ -1,7 +1,7 @@
-package TrainTicketHuman.Controller;
+package trainTicketDemo.Controller;
 
-import TrainTicketHuman.Model.Passenger;
-import TrainTicketHuman.Service.PassengerService;
+import trainTicketDemo.Model.Passenger;
+import trainTicketDemo.Service.PassengerService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;

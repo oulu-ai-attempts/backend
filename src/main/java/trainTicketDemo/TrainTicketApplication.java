@@ -1,13 +1,13 @@
-package TrainTicketHuman;
+package trainTicketDemo;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class ResearchHotelApplication {
+public class TrainTicketApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(ResearchHotelApplication.class, args);
+        SpringApplication.run(TrainTicketApplication.class, args);
     }
 
 }

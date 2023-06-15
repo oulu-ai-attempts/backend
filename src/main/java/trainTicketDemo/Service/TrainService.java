@@ -1,8 +1,8 @@
-package TrainTicketHuman.Service;
+package trainTicketDemo.Service;
 
 
-import TrainTicketHuman.Model.Train;
-import TrainTicketHuman.Repository.TrainRepository;
+import trainTicketDemo.Model.Train;
+import trainTicketDemo.Repository.TrainRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

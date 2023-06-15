@@ -1,7 +1,7 @@
-package TrainTicketHuman.Controller;
+package trainTicketDemo.Controller;
 
-import TrainTicketHuman.Model.Ticket;
-import TrainTicketHuman.Service.TicketService;
+import trainTicketDemo.Model.Ticket;
+import trainTicketDemo.Service.TicketService;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 

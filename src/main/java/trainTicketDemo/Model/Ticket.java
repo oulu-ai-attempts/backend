@@ -1,4 +1,4 @@
-package TrainTicketHuman.Model;
+package trainTicketDemo.Model;
 
 import jakarta.persistence.*;
 

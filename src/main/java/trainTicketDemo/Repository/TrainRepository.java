@@ -1,7 +1,7 @@
-package TrainTicketHuman.Repository;
+package trainTicketDemo.Repository;
 
 
-import TrainTicketHuman.Model.Train;
+import trainTicketDemo.Model.Train;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.stereotype.Repository;
 
